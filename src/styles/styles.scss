@@ -1,0 +1,71 @@
+@import "variables";
+@import "node_modules/bootstrap/scss/bootstrap";
+
+body {
+  background: $background-color;
+}
+
+.h3p {
+  height: 3px;
+}
+.mt7r {
+  margin-top: 0.7rem;
+}
+
+// Header
+.numberCircle {
+  border-radius: 50%;
+  // background-color: $primary;
+  width: 36px;
+  height: 36px;
+  padding: 8px;
+
+  background: #fff;
+  border: 1px solid #fff;
+  color: #fff;
+  text-align: center;
+
+  font: 20px Arial, sans-serif;
+}
+
+// OrderBook
+.mycontent-left {
+  border-right: 1px solid #333;
+}
+
+// TradingView
+#tv_chart_container {
+  iframe {
+    height: 87vh !important;
+  }
+}
+
+.vh87{
+    height: 87vh;
+}
+
+// #tv_chart_container{
+//     height:610px;
+// }
+//Bootstrap Media queries
+// @include media-breakpoint-up(sm) {
+//     #tradingview_e9e87{
+//         height:610px;
+//         overflow-y: scroll;
+//     }
+//  }
+// @include media-breakpoint-up(md) {
+//     #tradingview_e9e87{
+
+//     }
+//  }
+// @include media-breakpoint-up(lg) {
+//     #tradingview_e9e87{
+//         height:504px;
+//     }
+//  }
+// @include media-breakpoint-up(xl) {
+//     #tradingview_e9e87{
+//         height:610px;
+//     }
+//  }
