@@ -1,7 +1,7 @@
 ![product_logo](https://d2mxuefqeaa7sj.cloudfront.net/s_6DD6E0146B575E6511BE2FA401896C4D2AA462148DDDD87187579A4495CE0E65_1545499142369_TREKT.png)
 
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR?ref=badge_shield) [![Netlify Status](https://api.netlify.com/api/v1/badges/fc9532c8-ccd1-4fa7-adc2-dfb1241031fb/deploy-status)](https://app.netlify.com/sites/scrtr/deploys)
 
 # What is SCRTR?
 
