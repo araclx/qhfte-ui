@@ -45,11 +45,15 @@ Your app is ready to be deployed!
 *This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
 
 ## Project Roadmap
-- [x] TradingView Intregration
-- [ ] UI/UX Prototype (App Concept)
-- [ ] Web Prototype
+The SCRTR 0.1 Roadmap
 
-*Roadmap under development…*
+- [x] TradingView Intregration
+- [ ] Product Concept
+- [ ] User Experience Design
+- [ ] User Interface Design
+- [ ] Wrapped Prototype
+- [ ] Development of Prototype
+- [ ] Web Deployment
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR?ref=badge_large)
