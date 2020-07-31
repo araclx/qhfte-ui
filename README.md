@@ -5,6 +5,9 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/18d198d889084147ad7f1d325105c012)](https://app.codacy.com/app/rektra-network/SCRTR?utm_source=github.com&utm_medium=referral&utm_content=rektra-network/SCRTR&utm_campaign=Badge_Grade_Dashboard)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frektra-network%2FSCRTR?ref=badge_shield) [![Netlify Status](https://api.netlify.com/api/v1/badges/fc9532c8-ccd1-4fa7-adc2-dfb1241031fb/deploy-status)](https://app.netlify.com/sites/scrtr/deploys)
 
+# Rebuild Process
+REKTRA Network was oficially discontinued, and there will be another try for this product in near time, actually source will be migrated to `qhfte`.
+
 # What is SCRTR?
 
 SCRTR is a open-source trading platforms which integrates a
